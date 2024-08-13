@@ -14,11 +14,7 @@ def blog_details(request):
     return render(request, "blog_details/index.html")
 
 def checkout(request):
-
     return render(request, "checkout/index.html")
-
-def home(request):
-    return render(request, "home/index.html")
 
 def product_details(request):
     return render(request, "product_details/index.html")
