@@ -1,5 +1,7 @@
 # Django Notes
 
+- Contribute to this open-source project
+
 ## Install django
 - `pip install django`
 
@@ -10,7 +12,7 @@
 - In the directory where you have activated you virtual environment, clone the project there using `git clone git@github.com:Arjoshi0/ecommerce.git`
 
 ## Activate virtual environment
-- Everytime you run a python project activate you virtual environment using
+- Everytime you run a python project activate you virtual environment using 
   - In Windows use `.venv/Scripts/activate`
   - In Linux and MacOs use `source .venv/bin/activate`
 
