@@ -1,4 +1,4 @@
 - [x] Add layout.html file to make header and footer consistent
 - [ ] In layout.html change every link(href), script(src)
 - [x] extend layout.html on every page and keep it inside block
-- [ ] remove href part in anchor tag just keep double quote
+- [x] remove href part in anchor tag just keep double quote
