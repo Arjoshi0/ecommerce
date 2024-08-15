@@ -2,3 +2,16 @@
 - [ ] In layout.html change every link(href), script(src)
 - [x] extend layout.html on every page and keep it inside block
 - [x] remove href part in anchor tag just keep double quote
+
+- [ ] Make model for:
+  - Product: Stores details about each product (name, description, price, stock, etc.).
+  - Category: Organizes products into different categories.
+  - Order: Tracks orders placed by customers (order date, status, total amount, etc.).
+  - OrderItem: Represents individual items within an order (product, quantity, price, etc.).
+  - Customer: Stores customer information (name, email, address, etc.).
+  - ShippingAddress: Stores shipping addresses linked to orders.
+  - Payment: Manages payment details (payment method, status, transaction ID, etc.).
+  - Cart: Manages products added to the shopping cart by users.
+  - CartItem: Represents individual items within the cart.
+  - Coupon: Stores discount codes and related details.
+  - Review: Handles product reviews by customers

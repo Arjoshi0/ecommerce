@@ -20,7 +20,7 @@ def product_details(request):
     return render(request, "product_details/index.html")
 
 def regular_page(request):
-    return render(request, "reqular_page/index.html")
+    return render(request, "regular_page/index.html")
 
 def shop(request):
     return render(request, "shop/index.html")

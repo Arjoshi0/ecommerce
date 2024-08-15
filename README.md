@@ -38,3 +38,7 @@
 ## Push
 - Resolve the conflics and commit it using `git commit -m "<commit_message>"`
 - Push it using `git push`
+
+# Models
+- String -> models.CharField()
+- Integer -> models.IntegerField()
